@@ -24,3 +24,7 @@
 <hr />
 
 ## 4. <a name="supplemental">Supplemental Resources</a>
+
+* *[Redmine Official Website](https://www.redmine.org/)*
+* *[Jira Official Website](https://www.atlassian.com/software/jira)*
+* *[OpenProject Official Website](https://www.openproject.org/)*
