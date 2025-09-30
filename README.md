@@ -1,6 +1,6 @@
 # Redmine vs. Jira Overview Guide
 
-**TODO:** A brief overview guide of two popular project management systems.
+**TODO:** Add screenshots and additional details about both Redmine and Jira.
 
 #### Table of Contents
 
@@ -18,6 +18,10 @@
 <hr />
 
 ## 2. <a name="jira">Jira: A Brief Overview</a>
+
+**Jira** is an Atlassian-proprietary issue tracking and project management software tool, originally intended as a debugger for software developers but since redesigned for a diversity of team and organization types and needs. Given Jira's initial purpose, it may not be surprising that it continues to be oriented around the Agile methodology (including Agile sprints), which makes tracking task state and owner simple.
+
+Jira features a beginner-friendly user interface, a detailed reporting mechanism, high capacity for integration (especially with other Atlassian products, such as Bitbucket and Confluence), and a variety of AI-powered support tools for automating and simplifying tasks.
 
 <hr />
 
