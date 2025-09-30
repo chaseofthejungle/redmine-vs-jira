@@ -13,6 +13,8 @@
 
 ## 1. <a name="redmine">Redmine: A Brief Overview</a>
 
+**Redmine** is, at its core, an open-source and free (for purchase, use, and source code modifying and redistribution) issue tracking and project management tool. It can be customized to the needs of teams or larger organizations, and can be easily integrated into various database-oriented technology stacks and Version Control Systems (VCSes). For enterprises and those needing dedicated support, a proprietary extension named *Easy Redmine* is available for purchase.
+
 <hr />
 
 ## 2. <a name="jira">Jira: A Brief Overview</a>
