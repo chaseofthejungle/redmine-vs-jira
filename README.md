@@ -53,7 +53,7 @@ Jira features a beginner-friendly user interface, a detailed reporting mechanism
 
 ## 4. <a name="detailed">Redmine vs. Jira: Detailed Contrast and Comparison</a>
 
-(TODO)
+**TODO:** Provide detailed comparison/contrast on the following dynamics: use cases, project management functionalities, issue tracking, core features, cost and licensing models, support availability, user interface, security, and scalability handling.
 
 <hr />
 
