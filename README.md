@@ -1,13 +1,12 @@
 # Redmine vs. Jira Overview Guide
 
-**TODO:** Add screenshots and additional details about both Redmine and Jira.
-
 #### Table of Contents
 
 1. [Redmine: A Brief Overview](#redmine)
 2. [Jira: A Brief Overview](#jira)
-3. [Redmine vs. Jira: Contrast and Comparison](#contrast)
-4. [Supplemental Resources](#supplemental)
+3. [Redmine vs. Jira: Brief Contrast and Comparison](#brief)
+4. [Redmine vs. Jira: Detailed Contrast and Comparison](#detailed)
+5. [Supplemental Resources](#supplemental)
 
 <hr />
 
@@ -25,7 +24,7 @@ Jira features a beginner-friendly user interface, a detailed reporting mechanism
 
 <hr />
 
-## 3. <a name="contrast">Redmine vs. Jira: Contrast and Comparison</a>
+## 3. <a name="brief">Redmine vs. Jira: Brief Contrast and Comparison</a>
 
 **Redmine** may be a better project management solution if:
 
@@ -52,7 +51,13 @@ Jira features a beginner-friendly user interface, a detailed reporting mechanism
 
 <hr />
 
-## 4. <a name="supplemental">Supplemental Resources</a>
+## 4. <a name="detailed">Redmine vs. Jira: Detailed Contrast and Comparison</a>
+
+(TODO)
+
+<hr />
+
+## 5. <a name="supplemental">Supplemental Resources</a>
 
 * *[Redmine Official Website](https://www.redmine.org/)*
 * *[Jira Official Website](https://www.atlassian.com/software/jira)*
