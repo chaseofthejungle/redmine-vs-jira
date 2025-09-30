@@ -21,21 +21,24 @@
 
 ## 3. <a name="contrast">Redmine vs. Jira: Contrast and Comparison</a>
 
-*Redmine* may be a better project management solution if:
+**Redmine** may be a better project management solution if:
 
-* Organizations expect autonomy over the various mechanisms of their project management software.
+* The need for advanced technical knowledge/expertise to operate a project management solution is not burdensome.
+* Organizations expect autonomy to customize the various mechanisms of their project management software.
 * Workflow customizations have special requirements.
 * Project data is highly sensitive/confidential.
-* Budgeting is tight, or a free option is otherwise strongly preferred.
+* A free and/or open-source option is strongly preferred.
 * Version Control System (VCS) integration is highly important.
 
-*Jira* may be a better project management solution if:
+**Jira** may be a better project management solution if:
 
+* A beginner-friendly solution is needed, such as one with dedicated support and a low learning-curve user interface.
 * Workflows need to be rigidly standardized.
 * Project tracking requires (or would significantly benefit from) high capacity for detail.
-* Built-in/native project management tools/utilities would be much preferred.
+* Built-in project management utilities are much preferred, and/or the organization relies on other Atlassian products.
 * The team is an IT help/support desk or a marketing/advertising group developing campaigns.
-* Agile methodology is championed.
+* Agile methodology is extensively adhered to (Jira provides native dashboards for Agile frameworks such as Kanban and Scrum, while Redmine relies on add-ons/plugins).
+* Subscription fees are not a dealbreaker.
 
 <hr />
 
